@@ -1,3 +1,3 @@
 # JavaLearning
-Some small Java relatedsource
+Some small Java related source
 No valuation!!!
